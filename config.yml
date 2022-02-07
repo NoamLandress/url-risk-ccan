@@ -1,0 +1,12 @@
+API_CONNECTION:
+  API: https://www.virustotal.com/api/v3/search?query=
+  API_KEY: 1b10081b683c8980baf0a09e0494b73af649ca713215c6e6b874241252f9093c
+LAST_SCAN:
+  URL_LAST_SCAN:
+    URL_1: 1
+    URL_2: k2
+    fourthgate.org: 2022-02-07 16:50:51.357127
+    tailormed.co: 2022-02-07 16:50:53.772630
+    theteflacademy.co.uk: 2022-02-07 16:50:50.789895
+    vegweb.com: 2022-02-07 16:50:52.031873
+    www.nytimes.com: 2022-02-07 16:50:50.119651
