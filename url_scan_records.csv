@@ -1,4 +1,4 @@
-domain,is_safe,total_vote,category
+domain,is_safe,total_vote,category,timestamp
 www.nytimes.com,False,1,news,2022-02-07 13:40:49.579519
 theteflacademy.co.uk,True,0,business,2022-02-07 13:40:50.198847
 fourthgate.org,True,1,"Information Technology, Suspicious",2022-02-07 13:40:50.921902
